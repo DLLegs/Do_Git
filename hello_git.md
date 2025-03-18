@@ -8,3 +8,5 @@
 - commit
 
 ## 변경내용 되돌리기 Checkout 실습
+
+# learngitbranching 으로 merge 실습
